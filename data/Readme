@@ -1,6 +1,7 @@
-The data is stored in the formant.
+#The data is stored in the formant.
 data
-  disease.csv
-  genes.csv
-  edges.csv
+|--disease.csv
+|--genes.csv
+|--edges.csv
+   |--disease-gene (the disease-gene interaction graph in gexf format)
   
