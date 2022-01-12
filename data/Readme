@@ -1,0 +1,6 @@
+The data is stored in the formant.
+data
+  disease.csv
+  genes.csv
+  edges.csv
+  
