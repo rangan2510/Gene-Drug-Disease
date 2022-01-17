@@ -4,4 +4,4 @@ data
 |--genes.csv
 |--edges.csv
    |--disease-gene (the disease-gene interaction graph in gexf format)
-  
+      |--dgl_graph.bin(the above gexf graph in dgl binary graph at index[0])
